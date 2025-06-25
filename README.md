@@ -7,10 +7,10 @@ A COVID-19 é uma infecção respiratória aguda causada pelo coronavírus SARS-
 > Fonte: [Governo brasileiro](https://www.gov.br/saude/pt-br/assuntos/coronavirus)
 
 ## 🔗 Acesse o Dashboard Online:
-# 👉 Clique aqui para visualizar no Looker Studio (https://lookerstudio.google.com/u/0/reporting/c649f065-d091-4ef9-ba45-589d9360eb86)
+# 👉 [Clique aqui para visualizar no Looker Studio](https://lookerstudio.google.com/u/0/reporting/c649f065-d091-4ef9-ba45-589d9360eb86)
 
 # 📄 Ou visualize o relatório em PDF:
-Download direto (./Dashboard_-_Covid19.pdf)
+[Dashboard](Dashboard_-_Covid19.pdf)
 
 # 📌 Principais Indicadores do Painel:
 
@@ -33,9 +33,9 @@ Looker Studio (Google Data Studio) — Criação do dashboard
 
 Fontes de dados:
 
-Casos e mortes: Johns Hopkins CSSE <https://ourworldindata.org/covid-vaccinations>
+Casos e mortes: [Johns Hopkins CSS](https://ourworldindata.org/covid-vaccinations)
 
-Vacinação: Our World in Data <https://ourworldindata.org/covid-vaccinations>
+Vacinação: [Our World in Data](https://ourworldindata.org/covid-vaccinations)
 
 Visualização interativa com KPIs e mapas geográficos
 
@@ -53,4 +53,4 @@ Granularidade espacial: por estado
 
 Como não é possível incorporar imagens diretamente do Looker Studio, o PDF abaixo representa uma captura do painel com os principais indicadores:
 
-📄 Visualizar PDF do dashboard <./Dashboard_-_Covid19.pdf>
+📄 Visualizar PDF do dashboard [Dashboard](Dashboard_-_Covid19.pdf)
