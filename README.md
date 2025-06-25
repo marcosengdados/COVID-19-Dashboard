@@ -6,13 +6,13 @@ A COVID-19 é uma infecção respiratória aguda causada pelo coronavírus SARS-
 
 > Fonte: [Governo brasileiro](https://www.gov.br/saude/pt-br/assuntos/coronavirus)
 
-## 🔗 Acesse o Dashboard Online:
-# 👉 [Clique aqui para visualizar no Looker Studio](https://lookerstudio.google.com/u/0/reporting/c649f065-d091-4ef9-ba45-589d9360eb86)
+🔗 # Acesse o Dashboard Online:
+👉 [Clique aqui para visualizar no Looker Studio](https://lookerstudio.google.com/u/0/reporting/c649f065-d091-4ef9-ba45-589d9360eb86)
 
-# 📄 Ou visualize o relatório em PDF:
+📄 **Ou visualize o relatório em PDF:**
 [Dashboard](Dashboard_-_Covid19.pdf)
 
-# 📌 Principais Indicadores do Painel:
+📌 **Principais Indicadores do Painel:**
 
 Total de casos e mortes por dia
 
@@ -26,7 +26,7 @@ Distribuição geográfica por estados
 
 Análise temporal e comparativa ao longo de 2021
 
-# 🧰 Tecnologias e Ferramentas
+🧰 **Tecnologias e Ferramentas** 
 Python (Pandas, NumPy) — Tratamento e estruturação dos dados
 
 Looker Studio (Google Data Studio) — Criação do dashboard
@@ -39,7 +39,7 @@ Vacinação: [Our World in Data](https://ourworldindata.org/covid-vaccinations)
 
 Visualização interativa com KPIs e mapas geográficos
 
-# 🧪 Dataset utilizado
+🧪 **Dataset utilizado** 
 
 Período: Janeiro a Dezembro de 2021
 
@@ -49,8 +49,8 @@ Granularidade temporal: diária
 
 Granularidade espacial: por estado
 
-# 📷 Prévia do Painel
+** 📷 **Prévia do Painel**
 
 Como não é possível incorporar imagens diretamente do Looker Studio, o PDF abaixo representa uma captura do painel com os principais indicadores:
 
-📄 Visualizar PDF do dashboard [Dashboard](Dashboard_-_Covid19.pdf)
+📄 [Dashboard](Dashboard_-_Covid19.pdf)
