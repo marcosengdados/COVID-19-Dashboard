@@ -49,7 +49,7 @@ Granularidade temporal: diária
 
 Granularidade espacial: por estado
 
-** 📷 **Prévia do Painel**
+📷 **Prévia do Painel**
 
 Como não é possível incorporar imagens diretamente do Looker Studio, o PDF abaixo representa uma captura do painel com os principais indicadores:
 
