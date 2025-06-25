@@ -6,7 +6,7 @@ A COVID-19 é uma infecção respiratória aguda causada pelo coronavírus SARS-
 
 > Fonte: [Governo brasileiro](https://www.gov.br/saude/pt-br/assuntos/coronavirus)
 
-🔗 # Acesse o Dashboard Online:
+🔗 **Acesse o Dashboard Online:**
 👉 [Clique aqui para visualizar no Looker Studio](https://lookerstudio.google.com/u/0/reporting/c649f065-d091-4ef9-ba45-589d9360eb86)
 
 📄 **Ou visualize o relatório em PDF:**
