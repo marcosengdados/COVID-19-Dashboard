@@ -27,6 +27,7 @@ Distribuição geográfica por estados
 Análise temporal e comparativa ao longo de 2021
 
 🧰 **Tecnologias e Ferramentas** 
+
 Python (Pandas, NumPy) — Tratamento e estruturação dos dados
 
 Looker Studio (Google Data Studio) — Criação do dashboard
